@@ -6,5 +6,5 @@
 * [3 第一个iOS程序-属性连接](chapter3.md)
 * [4 第一个iOS程序-总结](chapter4.md)
 * [5 UIView、父子控件](chapter5.md)
-* chapter6
+* [chapter6](chapter6.md)
 
