@@ -7,4 +7,5 @@
 * [4 第一个iOS程序-总结](chapter4.md)
 * [5 UIView、父子控件](chapter5.md)
 * [6 UIView的其他属性](chapter6.md)
+* chapter7
 
