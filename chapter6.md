@@ -1,2 +1,3 @@
-# chapter6
+# 6 UIView的其他属性
 
+* UIViewHierarchy
